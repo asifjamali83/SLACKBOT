@@ -13,7 +13,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 nadya = SLACKBOT.LINE()
 #nadya.login(qr=True)
-nadya.login(token='EtPtjfWm2nVnrI2jx584.xujtYtBOUWwYbWZOWy8Kra.F8sy5csqmV6wd/kRzIiVpsSoY5Tamb+BOoWs4yEOU7o=')
+#nadya.login(token='EtPtjfWm2nVnrI2jx584.xujtYtBOUWwYbWZOWy8Kra.F8sy5csqmV6wd/kRzIiVpsSoY5Tamb+BOoWs4yEOU7o=')
 nadya.loginResult()
 print "Nadya-Login Success\n\n=====[Sukses Login]====="
 
