@@ -240,8 +240,8 @@ line.me/ti/p/~fuck.you__
 KAC=[nadya]
 mid = nadya.getProfile().mid
 Bots=[mid]
-Creator=["u5d4253c936e8bb05b2070ce8c18f2444"]
-admin=["u5d4253c936e8bb05b2070ce8c18f2444"]
+Creator=["ue954d67745cbcd9d6124682ba6311216"]
+admin=["ue954d67745cbcd9d6124682ba6311216"]
 
 contact = nadya.getProfile()
 backup1 = nadya.getProfile()
